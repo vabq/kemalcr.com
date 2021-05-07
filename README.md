@@ -1,22 +1,22 @@
-# Kemal Site (http://kemalcr.com)
+# Web de Kemal  (http://kemalcr.com)
 
-This is the repo for the official [Kemal](http://kemalcr.com) site.
+Este es el repositorio para la web oficial de  [Kemal](http://kemalcr.com) .
 
-## Installation
+## Installación
 
 * `git clone git@github.com:kemalcr/kemalcr.com.git`
 * `cd kemalcr.com`
 * `gem install jekyll` requires [rubygems](http://rubygems.org)
 * `jekyll serve` boots website locally
 
-Now open up `http://locahost:4000` to view the site locally.
+Ahora abrir `http://locahost:4000` para ver la web en modo local.
 
-## Contributing
+## Contribuyendo
 
 [![Join the chat at https://gitter.im/sdogruyol/kemal](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sdogruyol/kemal?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-1. Fork the repo
-2. Make updates
-3. Ensure it all works locally for you first
-4. Triple check typos, etc...
+1. Hacer un Fork al repositorio
+2. Realizar actualizaciones
+3. Asegurar primero que todo funciona bien localmente 
+4. Revisar typos, etc...
 5. Submit pull request
